@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>My Screensaver Images</title>
+  <link>https://github.com/harryjamesgit/screensaver1</link>
+  <description>Images for XScreenSaver</description>
+
+  <item>
+    <title>smoke:face:woman</title>
+    <enclosure url="https://raw.githubusercontent.com/harryjamesgit/screensaver1/main/smoke:face:woman.jpg" type="image/jpeg"/>
+  </item>
+
+  <item>
+    <title>owl_contact</title>
+    <enclosure url="https://raw.githubusercontent.com/harryjamesgit/screensaver1/main/owl_contact.png" type="image/png"/>
+  </item>
+
+  <item>
+    <title>replicant</title>
+    <enclosure url="https://raw.githubusercontent.com/harryjamesgit/screensaver1/main/replicant.png" type="image/png"/>
+  </item>
+  
+  <item>
+    <title>eye:light</title>
+    <enclosure url="https://raw.githubusercontent.com/harryjamesgit/screensaver1/main/eye:light.png" type="image/png"/>
+  </item>
+  
+</channel>
+</rss>
